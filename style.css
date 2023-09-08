@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.info {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.info p {
+    font-size: 18px;
+}
+
+.info a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.info a:hover {
+    text-decoration: underline;
+}
